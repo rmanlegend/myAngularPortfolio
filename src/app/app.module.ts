@@ -19,14 +19,15 @@ import { MernComponent } from './mern/mern.component';
 
 
   // Initialize Firebase
-  var config = {
-    apiKey: "AIzaSyC1pgtYdv9B2alCuf03LDahtn0mjIaOcsQ",
-    authDomain: "rmandoportfolio.firebaseapp.com",
-    databaseURL: "https://rmandoportfolio.firebaseio.com",
-    projectId: "rmandoportfolio",
-    storageBucket: "rmandoportfolio.appspot.com",
-    messagingSenderId: "419751948717"
-  };
+
+  // var config = {
+  //   apiKey: "AIzaSyC1pgtYdv9B2alCuf03LDahtn0mjIaOcsQ",
+  //   authDomain: "rmandoportfolio.firebaseapp.com",
+  //   databaseURL: "https://rmandoportfolio.firebaseio.com",
+  //   projectId: "rmandoportfolio",
+  //   storageBucket: "rmandoportfolio.appspot.com",
+  //   messagingSenderId: "419751948717"
+  // };
 
 @NgModule({
   declarations: [
